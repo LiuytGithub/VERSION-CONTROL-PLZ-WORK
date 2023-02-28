@@ -31,6 +31,6 @@ That being said, here are the instructions to follow if you really wanna contrib
             - COMMIT  --> `git commit -m "your message here"`  
             - PUSH    --> `git push`(this actually makes the changes to Github)  
     4.) This will push your changes to your branch of the repository  
-    5.) You must then make a pull request to merge your changes to the main branch! Here is the Github page on pull requests: [Github Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+    5.) You must then make a pull request to merge your changes to the main branch! Here is the Github page on pull requests:[Github Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
     6.) Please Read the CODE-OF-CONDUCT, [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md) and THANKS FOR CONTRIBUTING!
 Well friends, I think that is all ! Thanks for reading xp
