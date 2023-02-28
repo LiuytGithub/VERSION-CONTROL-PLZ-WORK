@@ -27,10 +27,12 @@ That being said, here are the instructions to follow if you really wanna contrib
     1.) Follow the instructions for how to make a fork that Github provides here: [Github Forks](https://docs.github.com/en/get-started/quickstart/fork-a-repo)  
     2.) Once you have created your fork, you can edit the files in JupyterNotebook  
     3.) Anytime you want to update the repository on Github you need to follow 3 steps *in order*:  
-            ADD     --> `git add <filename.extension>`  
-            COMMIT  --> `git commit -m "your message here"`  
-            PUSH    --> `git push`(this actually makes the changes to Github)  
+            - ADD     --> `git add <filename.extension>`  
+            - COMMIT  --> `git commit -m "your message here"`  
+            - PUSH    --> `git push`(this actually makes the changes to Github)  
     4.) This will push your changes to your branch of the repository  
     5.) You must then make a pull request to merge your changes to the main branch! Here is the Github page on pull requests: [Github Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+
+Well friends, I think that is all ! Thanks for reading xp
 
 
