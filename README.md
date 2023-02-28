@@ -24,7 +24,7 @@ Running through JupyterHub:
 So you wanna help us out with this *awesome* piece of code, huh?  
 That's actually very sweet thank you (because spoiler alert: you will sadly *not* be getting paid)  
 That being said, here are the instructions to follow if you really wanna contribute:  
-    1.) Follow the instructions for how to make a fork that Github provides here: <a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo" target="_blank">Github Forks</a>
+    1.) Follow the instructions for how to make a fork that Github provides here: [Github Forks](https://docs.github.com/en/get-started/quickstart/fork-a-repo)  
     2.) Once you have created your fork, you can edit the files in JupyterNotebook  
     3.) Anytime you want to update the repository on Github you need to follow 3 steps *in order*:  
             ADD     --> `git add <filename.extension>`  
