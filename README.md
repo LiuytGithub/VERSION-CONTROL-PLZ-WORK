@@ -6,11 +6,11 @@ Vaasgeesha Das
 Yutong Liu  
 
 **Version Control Functionality**  
-This program asks your name and birthday and then:  
-    1.) calculates your age  
-    2.) calculates how many days until your next birthday  
+This program asks for your name and birthday and then:  
+    1.) Calculates your age  
+    2.) Calculates the number of days until your next birthday (starting today)  
     3.) Wishes you a happy birthday if today is your birthday  
-    4.) calculates Chinese zodiac (based on year of birth)  
+    4.) Calculates your Chinese zodiac (based on your birth year)  
 
 **How to use:**  
 Running through JupyterHub:  
