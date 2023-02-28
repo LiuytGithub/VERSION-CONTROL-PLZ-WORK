@@ -6,11 +6,11 @@ Vaasgeesha Das
 Yutong Liu  
 
 **Version Control Functionality**  
-This program asks your name and birthday and then:  
-    1.) calculates your age  
-    2.) calculates how many days until your next birthday  
+This program asks for your name and birthday and then:  
+    1.) Calculates your age  
+    2.) Calculates the number of days until your next birthday (starting today)  
     3.) Wishes you a happy birthday if today is your birthday  
-    4.) calculates Chinese zodiac (based on year of birth)  
+    4.) Calculates your Chinese zodiac (based on your birth year)  
 
 **How to use:**  
 Running through JupyterHub:  
@@ -32,8 +32,5 @@ That being said, here are the instructions to follow if you really wanna contrib
             - PUSH    --> `git push`(this actually makes the changes to Github)  
     4.) This will push your changes to your branch of the repository  
     5.) You must then make a pull request to merge your changes to the main branch! Here is the Github page on pull requests: [Github Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
-    6.) Please Read the CODE-OF-CONDUCT, |Contributor Covenant| and THANKS FOR CONTRIBUTING!
+    6.) Please Read the CODE-OF-CONDUCT, [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md) and THANKS FOR CONTRIBUTING!
 Well friends, I think that is all ! Thanks for reading xp
-
-
-.. |Contributor Covenant| image:: https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg :target: code_of_conduct.md
