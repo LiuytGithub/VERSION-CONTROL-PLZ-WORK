@@ -1,5 +1,5 @@
 **Rules:**  
-    * Be respectful  
+    * Be respectful and kind (hate speech of any kind will not be tolerated and may be grounds for removal! just be nice, folks, and think before speaking)
     * When committing files, no aggressive/rude/threatening comments  
     * Constructive Criticism only !!  
         * If someone commits changes you don't like, be respectful and have a dialogue with them  
